@@ -1,0 +1,14 @@
+div.main {
+	padding:1em 0.5em 0.5em 0;
+	min-height:34em;
+}
+
+div.container {
+	width:50em;
+	margin:1em auto;
+	padding:0.5em 0.5em 0.1em 0.5em;
+	background-color:#ffffff;
+	position: relative;
+	top:-30em;
+	margin-bottom:-29em;
+}

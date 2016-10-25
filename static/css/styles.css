@@ -1,0 +1,169 @@
+/*
+----------------------------------------------------------------------------- 
+GLOBALS
+-----------------------------------------------------------------------------*/
+html {
+	background:#412213;
+}
+
+body {
+	overflow-y:scroll;
+	font-family:verdana,arial,helvetica,sans-serif;
+}
+
+div.clear {
+	clear:both;
+}
+
+img {
+	display:block;
+	margin: 0 auto;
+	padding:1.5em 0;
+}
+	
+#arrow {
+	margin-top:-1.65em;
+}
+
+/*
+----------------------------------------------------------------------------- 
+HEADINGS
+-----------------------------------------------------------------------------*/
+
+h1 {
+	font-family:georgia, serif;
+	font-size:3em;
+	font-weight:normal;
+	color:black;
+}
+
+
+h2 {
+	font-size:2em;
+	font-weight:normal;
+	color:black;
+}
+
+h3 {
+	color:black;
+	font-weight:normal;
+	font-size:1.3em;
+}
+
+h6 {
+	color:black;
+}
+
+#badge {
+	float: right;
+	padding-left: 2em;
+	padding-top: 1.7em;
+	height: 7em;
+}
+
+
+/*
+----------------------------------------------------------------------------- 
+DEFAULT FONT STYLES
+-----------------------------------------------------------------------------*/
+
+p {
+	font-size:1em;
+	line-height:1.4em;
+	color:#000000;
+	text-indent: 1.5em;
+	padding-bottom:0.5em;
+}
+
+h3 span {
+	font-size:0.8em;
+	font-style:italic;
+	float:right;
+	padding-right:1em;
+	padding-top:0.3em;
+}
+
+div.nav ul {
+	font-size:0.8em;
+	line-height:1.4em;
+	margin:0.5em 0em 1em;
+	color:#000000;
+	list-style: none;
+}
+
+div.main ul {
+	list-style-type: circle;
+	padding: 0 0 1em 5em;
+}
+
+div.main ol {
+	list-style-type: decimal;
+	padding: 0 0 1em 5em;
+}
+
+div.main li {
+	line-height: 1.5em;
+}
+
+
+/*
+----------------------------------------------------------------------------- 
+LINKS
+-----------------------------------------------------------------------------*/
+
+a {
+	color:#a94c1e;
+	text-decoration:none;
+	font-weight:bold;
+}
+
+a:hover, a:focus {
+	color:#e5733b;
+}
+
+a img {
+	border:none;
+}
+
+/*
+----------------------------------------------------------------------------- 
+Footer
+-----------------------------------------------------------------------------*/
+
+.footer {
+	background: #8E6F60;
+	text-align: right;
+	font-size: 1em;
+	height:1.5em;
+	margin-bottom:0.5em;
+	margin-top: 3em;
+}
+
+.footer p {
+	color: black;
+	padding: 0.1em 0.5em 0.1em 0;
+}
+
+
+/*
+----------------------------------------------------------------------------- 
+Bottom banner thingy
+-----------------------------------------------------------------------------*/
+
+div.bottom {
+  	background-image: url("../images/ScoutsMixed.jpg");
+	height: 50em;
+	min-height: 100%;
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+
+
+
+
+
+
+

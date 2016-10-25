@@ -1,0 +1,32 @@
+
+div.nav {
+	background-color:#dc6e38;
+	margin:-0.4em 0em 0em -11.3em;
+	float:left;
+	width:10em;
+	font-size: 1.3em;
+	position: absolute;
+}
+
+div.nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #dc6e38;
+}
+
+div.nav li a {
+    display: block;
+    color: white;
+    padding: 0.9em 0em 0.5em 1em;
+    text-decoration: none;
+	height: 2em;
+}
+
+div.nav li a:hover {
+    background-color: #a94c1e;
+}
+
+
+
+
